@@ -1,0 +1,5 @@
+c:\users\djm256\documents\visual studio 2015\Projects\GildedRoseKata\GildedRoseKata\bin\Debug\GildedRoseKata.dll
+c:\users\djm256\documents\visual studio 2015\Projects\GildedRoseKata\GildedRoseKata\bin\Debug\GildedRoseKata.pdb
+c:\users\djm256\documents\visual studio 2015\Projects\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.csprojResolveAssemblyReference.cache
+c:\users\djm256\documents\visual studio 2015\Projects\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.dll
+c:\users\djm256\documents\visual studio 2015\Projects\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.pdb
