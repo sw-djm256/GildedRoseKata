@@ -1,9 +1,0 @@
-C:\Users\djm256\Documents\Visual Studio 2015\Projects\GildedRoseKata\GildedRoseKataTests\bin\Debug\GildedRoseKataTests.dll
-C:\Users\djm256\Documents\Visual Studio 2015\Projects\GildedRoseKata\GildedRoseKataTests\bin\Debug\GildedRoseKataTests.pdb
-C:\Users\djm256\Documents\Visual Studio 2015\Projects\GildedRoseKata\GildedRoseKataTests\bin\Debug\GildedRoseKata.dll
-C:\Users\djm256\Documents\Visual Studio 2015\Projects\GildedRoseKata\GildedRoseKataTests\bin\Debug\nunit.framework.dll
-C:\Users\djm256\Documents\Visual Studio 2015\Projects\GildedRoseKata\GildedRoseKataTests\bin\Debug\GildedRoseKata.pdb
-C:\Users\djm256\Documents\Visual Studio 2015\Projects\GildedRoseKata\GildedRoseKataTests\bin\Debug\nunit.framework.xml
-C:\Users\djm256\Documents\Visual Studio 2015\Projects\GildedRoseKata\GildedRoseKataTests\obj\Debug\GildedRoseKataTests.csprojResolveAssemblyReference.cache
-C:\Users\djm256\Documents\Visual Studio 2015\Projects\GildedRoseKata\GildedRoseKataTests\obj\Debug\GildedRoseKataTests.dll
-C:\Users\djm256\Documents\Visual Studio 2015\Projects\GildedRoseKata\GildedRoseKataTests\obj\Debug\GildedRoseKataTests.pdb
