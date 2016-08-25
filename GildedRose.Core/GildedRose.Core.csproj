@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E4B3002B-E59E-4AE3-9F51-613B2A2E0F64}</ProjectGuid>
+    <ProjectGuid>{E4238D6F-B880-4420-9AB2-7F658C349DBE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GildedRoseKata</RootNamespace>
-    <AssemblyName>GildedRoseKata</AssemblyName>
+    <RootNamespace>GildedRose.Core</RootNamespace>
+    <AssemblyName>GildedRose.Core</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
