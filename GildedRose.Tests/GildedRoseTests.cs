@@ -1,8 +1,6 @@
-using System;
 using NUnit.Framework;
-using System.Collections.Generic;
 
-namespace GildedRose
+namespace GildedRose.Tests
 {
     [TestFixture]
     public class GildedRoseTests
