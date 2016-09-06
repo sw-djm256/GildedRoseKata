@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace GildedRose.Tests
+namespace GildedRoseKata.Tests
 {
     [TestFixture]
     public class GildedRoseTests

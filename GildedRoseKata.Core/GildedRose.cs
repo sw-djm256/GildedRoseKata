@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace GildedRose.Core
+namespace GildedRoseKata.Core
 {
     public class GildedRose
     {

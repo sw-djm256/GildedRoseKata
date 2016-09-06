@@ -6,8 +6,8 @@
     <ProjectGuid>{31419FD9-9242-406C-8B0F-F45C4DC71EDB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GildedRose.Tests</RootNamespace>
-    <AssemblyName>GildedRose.Tests</AssemblyName>
+    <RootNamespace>GildedRoseKata.Tests</RootNamespace>
+    <AssemblyName>GildedRoseKata.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -61,9 +61,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GildedRose.Core\GildedRose.Core.csproj">
+    <ProjectReference Include="..\GildedRose.Core\GildedRoseKata.Core.csproj">
       <Project>{e4238d6f-b880-4420-9ab2-7f658c349dbe}</Project>
-      <Name>GildedRose.Core</Name>
+      <Name>GildedRoseKata.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

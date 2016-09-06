@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GildedRose.Tests")]
+[assembly: AssemblyTitle("GildedRoseKata.Core")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("GildedRose.Tests")]
+[assembly: AssemblyProduct("GildedRoseKata.Core")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("31419fd9-9242-406c-8b0f-f45c4dc71edb")]
+[assembly: Guid("e4238d6f-b880-4420-9ab2-7f658c349dbe")]
 
 // Version information for an assembly consists of the following four values:
 //

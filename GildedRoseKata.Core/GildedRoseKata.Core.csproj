@@ -7,8 +7,8 @@
     <ProjectGuid>{E4238D6F-B880-4420-9AB2-7F658C349DBE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GildedRose.Core</RootNamespace>
-    <AssemblyName>GildedRose.Core</AssemblyName>
+    <RootNamespace>GildedRoseKata.Core</RootNamespace>
+    <AssemblyName>GildedRoseKata.Core</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

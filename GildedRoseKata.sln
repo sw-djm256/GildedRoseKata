@@ -10,9 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requirements", "Requirement
 		GildedRoseRequirements.txt = GildedRoseRequirements.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.Tests", "GildedRose.Tests\GildedRose.Tests.csproj", "{31419FD9-9242-406C-8B0F-F45C4DC71EDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRoseKata.Tests", "GildedRoseKata.Tests\GildedRoseKata.Tests.csproj", "{31419FD9-9242-406C-8B0F-F45C4DC71EDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.Core", "GildedRose.Core\GildedRose.Core.csproj", "{E4238D6F-B880-4420-9AB2-7F658C349DBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRoseKata.Core", "GildedRoseKata.Core\GildedRoseKata.Core.csproj", "{E4238D6F-B880-4420-9AB2-7F658C349DBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
