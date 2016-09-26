@@ -61,7 +61,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GildedRose.Core\GildedRoseKata.Core.csproj">
+    <ProjectReference Include="..\GildedRoseKata.Core\GildedRoseKata.Core.csproj">
       <Project>{e4238d6f-b880-4420-9ab2-7f658c349dbe}</Project>
       <Name>GildedRoseKata.Core</Name>
     </ProjectReference>
